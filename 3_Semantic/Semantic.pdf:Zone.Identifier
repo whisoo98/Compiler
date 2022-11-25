@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.notion.so/
+HostUrl=https://s3.us-west-2.amazonaws.com/temporary.notion-static.com/Export-fd1720d6-2917-4cea-8e64-a0bee4a76d6f/Semantic.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221221T042432Z&X-Amz-Expires=604800&X-Amz-Signature=76a6da3244dea9694f9c685e040f642c87ceb24babd087a2d9df2e80a41fea5c&X-Amz-SignedHeaders=host&x-id=GetObject

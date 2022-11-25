@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "python.linting.pylintEnabled": true,
+        "python.linting.enabled": true,
+        "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+        "python.globalModuleInstallation": true,
+        "files.autoSave": "afterDelay",
+        "files.autoSaveDelay": 10000,
+        "workbench.iconTheme": "vscode-icons",
+    
+        "python.linting.pylintArgs": ["--load-plugins=pylint_django"],
+        "editor.wordWrap": "on",
+        "editor.fontFamily": "Consolas, 'Courier New','Malgun Gothic, monospace",
+        "editor.tokenColorCustomizations": {
+            "comments": "#1c8f39" // 주석 색상 지정
+        },
+        "editor.formatOnSave": true, // 저장 시 코드 자동정렬
+        "prettier.tabWidth": 4,
+        "workbench.colorTheme": "Visual Studio 2017 Light - C++",
+        "diffEditor.codeLens": true,
+        "editor.codeActionsOnSave": { "source.fixAll.eslint": true },
+
+        "eslint.workingDirectories": [ {"mode": "auto"} ],
+    } 
+}
+    
+
+

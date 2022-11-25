@@ -1,0 +1,7 @@
+int mian(int int){{
+    
+	((a+b)+c);
+   main(main(main(main((a+b)),a+v)));
+    if (a>0) if(a<0) a=0; else b=4;
+    else if(a=0) b=4; else a=b;
+}}
